@@ -31,3 +31,14 @@
   <img align="center" alt="Leonardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 -->
 </div>
+  
+<!-- Social medias -->
+  
+<div> 
+  <a href="https://instagram.com/poliveira.leonardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:poliveira.leonardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-de-paula-28822a126" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/leopoliveira/leopoliveira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
