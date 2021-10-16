@@ -8,6 +8,7 @@
 - 😄 Pronouns: He;
 - ⚡ Fun fact: I am brazilian but I love to watch Premier League. I am super Manchester United FC fan;
 
+<br />
 
 <!-- User status -->
 
@@ -17,14 +18,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopoliveira&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
+ <br />
+  
   <!-- Most used languages -->
   
    <img align="center" alt="Leonardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<br />
   
  <!-- Languages that I yet don't use
   <img align="center" alt="Leonardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
