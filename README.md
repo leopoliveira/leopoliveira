@@ -17,6 +17,11 @@
   <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <br />
+  <br />
+  
+  <img align="center" alt="EscuelaDevRock" height="90" width="120" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+  
 
   <!-- Languages that I yet don't use
   <img align="center" alt="Leonardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
