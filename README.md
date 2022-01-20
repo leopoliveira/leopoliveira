@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Leonardo, from Brazil!
 
 - 🔭 I’m currently working with Salesforce;
-- 🌱 I’m currently learning Java and Salesforce;
+- 🌱 I’m currently learning C# and Salesforce;
 - 🤔 I’m looking for help with Front-End and Salesforce;
 - 💬 Ask me about PLC, Ladder, HTML, CSS and Javascript. I am good with Arduino too;
 - 😄 Pronouns: He;
