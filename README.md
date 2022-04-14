@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with Salesforce;
 - 🌱 I’m currently learning C# and Salesforce;
 - 🤔 I’m looking for help with Front-End and Salesforce;
-- 💬 Ask me about PLC, Ladder, HTML, CSS and Javascript. I am good with Arduino too;
+- 💬 Ask me about C#, ASP.Net, HTML, CSS and Javascript. I am good with Arduino too;
 - 😄 Pronouns: He;
 - ⚡ Fun fact: I am brazilian but I love watching Premier League ⚽. I am a super Manchester United FC fan;
 
@@ -17,6 +17,7 @@
   <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leonardo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Leonardo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <br />
   <br />
   
@@ -24,6 +25,7 @@
   
 
   <!-- Languages that I yet don't use
+  More Icons https://github.com/devicons/devicon/tree/master/icons
   <img align="center" alt="Leonardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leonardo-Python" height="30" width="40" src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"">
   <img align="center" alt="Leonardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
