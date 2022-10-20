@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Leonardo, from Brazil!
 
-- 🔭 I’m currently working with Salesforce;
-- 🌱 I’m currently learning C# and Salesforce;
-- 🤔 I’m looking for help with Front-End and Salesforce;
+- 🔭 I’m currently working as .Net Developer;
+- 🌱 I’m currently learning more and more about C# and .Net Core;
+- 🤔 I’m looking for help with Back End and .Net;
 - 💬 Ask me about C#, ASP.Net, HTML, CSS and Javascript. I am good with Arduino too;
 - 😄 Pronouns: He;
 - ⚡ Fun fact: I am brazilian but I love watching Premier League ⚽. I am a super Manchester United FC fan;
