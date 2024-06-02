@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Leonardo, from Brazil!
 
-- 🔭 I’m currently working as .Net Developer;
-- 🌱 I’m currently learning more and more about C# and .Net Core;
+- 🔭 I’m currently working as a Fullstack developer with .Net and React;
+- 🌱 I’m currently learning more and more about React, C#, and .Net Core;
 - 🤔 I’m looking for help with Back End and .Net;
-- 💬 Ask me about C#, ASP.Net, HTML, CSS and Javascript. I am good with Arduino too;
+- 💬 Ask me about C#, ASP.Net, HTML, CSS, and Javascript.;
 - 😄 Pronouns: He;
-- ⚡ Fun fact: I am brazilian but I love watching Premier League ⚽. I am a super Manchester United FC fan;
+- ⚡ Fun fact: I am Brazilian but love watching the Premier League ⚽. I am a super Manchester United FC fan;
 
 <hr />
   
